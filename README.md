@@ -1,2 +1,2 @@
 # cymat
-Comatic Visualizer
+Cymatic Visualizer
